@@ -1,6 +1,6 @@
 Story AI App
 
-A Flutter application that generates AI-powered stories with images for children. This app uses Gemini's AI capabilities for story generation and Supabase for data storage.
+A Flutter application that generates AI-powered stories with images for children. This app uses Fine tuned gemma3 model for story generation, Gemini's AI capabilities for image generation and Supabase for data storage.
 
 ## Features
 
